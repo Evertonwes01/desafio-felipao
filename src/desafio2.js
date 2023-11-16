@@ -1,0 +1,1 @@
+var nome = window.prompt('Digite o nome do Herói')
